@@ -1,0 +1,20 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <string>
+#include <set>
+#include <map>
+#include <algorithm>
+#include <deque>
+#include <list>
+#include <stack>
+#include <cstdio>
+#include <ctime>
+#include <cstdio>
+#include <assert.h>
+#include <unordered_map>
+#include <sstream>
+#include <unordered_set>
+#include <queue>
+#include <stack>
+using namespace std;
